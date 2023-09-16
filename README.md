@@ -1,5 +1,7 @@
 # ChuckNorris
-
+## Summary
+ChuckNorris Project, featuring jokes about ChuckNorris. A Footer, Main View and Toolbar are illustrated. The project is developed using Angular Framework, TypeScript and Angular Material UI Component Library.
+## About th Framework
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
 ## Development server
